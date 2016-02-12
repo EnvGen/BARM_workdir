@@ -11,4 +11,5 @@ fastqc/*
 fastuniq/*
 finished_reads/*
 assembly/*
+blast/*
 *-slurm.out
