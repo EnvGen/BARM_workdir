@@ -12,4 +12,5 @@ fastuniq/*
 finished_reads/*
 assembly/*
 blast/*
+mapping_stats/*
 *-slurm.out
