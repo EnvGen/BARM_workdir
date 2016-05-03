@@ -14,5 +14,6 @@ finished_reads/*
 assembly/*
 blast/*
 mapping_stats/*
-files_to_be_distributed/*/all_genes.tsv
+files_to_be_distributed/*
+test_taxonomy/*
 *-slurm.out
