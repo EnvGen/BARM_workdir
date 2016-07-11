@@ -16,4 +16,6 @@ blast/*
 mapping_stats/*
 files_to_be_distributed/*
 test_taxonomy/*
+taxonomy_annotation/*
+only_for_mapping/*
 *-slurm.out
