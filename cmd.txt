@@ -1,0 +1,1 @@
+snakemake --cluster "Snakefile_sbatch.py {dependencies}" --immediate-submit -j 99 --allowed-rules internal_standards_all internal_standards_bam_to_fastq internal_standards_sync_bam internal_standards_bamtools_split internal_standards_link_mapping bowtie2_map bowtie2_index bam_sort --snakefile BLUEPRINT_pipeline/workflows/barm/Snakefile internal_standards_all
