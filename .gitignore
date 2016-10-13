@@ -1,6 +1,7 @@
 BARM.v.0.2.fa.gz
 BARM.v.1.0.fa.gz
 .snakemake*
+internal_standards/*
 annotation/*
 mapping/*
 quantification/*
