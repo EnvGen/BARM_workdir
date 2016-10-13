@@ -1,6 +1,8 @@
 BARM.v.0.2.fa.gz
 BARM.v.1.0.fa.gz
 .snakemake*
+backup_dir/*
+testing_dir/*
 internal_standards/*
 annotation/*
 mapping/*
